@@ -1,0 +1,106 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+<style>
+body { background-color : lightgray;}
+
+h3{
+ animation-duration: 3s;
+  animation-name: yesse;
+  animation-iteration-count: 3;
+  animation-direction: reverse-alternate;
+  animation-delay:2s;
+  animation-play-state: walking;
+}
+
+@keyframes yesse {
+  from {
+ margin-left: 100%;
+    width: 300%;
+  }
+  
+}
+
+to {
+  margin-left: 0px;
+  width: 100%:
+}
+
+nav {
+    
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+    
+a:visted {
+    text-decoration: none;
+}
+    
+    
+nav ul {
+    list-style: ;
+}
+
+nav ul li {
+    display: inline-block;
+    color:#fffff;
+    margin: 0px 80px;
+    height: 20px;
+    width: 50px;
+    padding-top: -15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+nav ul li:hover {
+   
+    color:blue;
+}
+
+nav ul a, 
+nav ul li a: after,
+nav ul li a:before,
+ transition; all .5s;
+}
+
+
+</style>
+</head>
+
+<h1 style="background-color:DodgerBlue;">ABOUT US</h1>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Home
+           
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contacts</a>
+        </li>
+  
+     
+     
+   
+      </form>
+    </div>
+  </div>
+</nav>
+
+<h4>
+This website is about giving honarable awards for the premir league Teams, managers and players. Given by Essey Tesfalem who played for in n out fc and won the champions leage with Mac-Ronalds Fc.
+  <h4/>
+ <img src="https://i.pinimg.com/originals/de/53/a2/de53a279474fc402f6da36468ede8e8f.jpg" width="200" height="300">
+  <marquee direction="up" height="100px"> Ignore my butt </marquee>
